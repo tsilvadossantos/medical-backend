@@ -1,0 +1,36 @@
+SOAP Note - Encounter Date: 2024-01-28
+Patient: patient--006
+
+S: 42 y/o female presents with 2-week hx of progressive fatigue, difficulty concentrating, and feeling cold. Reports weight gain of 5 lbs despite no change in diet. Constipation x 1 week. Denies neck swelling or pain. Menstrual cycles regular but heavier than usual. Family hx of thyroid disease in mother.
+
+O:
+Vitals:
+
+BP: 108/72 mmHg
+HR: 58 bpm, regular
+Temp: 97.8°F
+Wt: 162 lbs
+General: Appears fatigued, speaks slowly
+Skin: Dry, cool to touch
+HEENT: Thyroid palpable, diffusely enlarged, non-tender, no nodules
+CV: Bradycardia, regular rhythm
+Reflexes: Delayed relaxation phase bilaterally
+Labs: TSH 12.4 mIU/L (elevated), Free T4 0.6 ng/dL (low)
+
+A:
+
+Primary hypothyroidism - new diagnosis
+
+P:
+
+Start Levothyroxine 50mcg daily
+Take on empty stomach, 30-60 min before breakfast
+Avoid calcium and iron supplements within 4 hours
+Recheck TSH and Free T4 in 6 weeks
+Goal TSH 0.5-2.5 mIU/L
+Discussed symptoms to expect with treatment initiation
+Follow up in 6 weeks for dose adjustment
+
+Signed:
+Dr. Lisa Anderson, MD
+Endocrinology

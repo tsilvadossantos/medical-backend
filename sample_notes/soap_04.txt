@@ -1,0 +1,35 @@
+SOAP Note - Encounter Date: 2024-01-22
+Patient: patient--004
+
+S: 8 y/o male brought in by mother for persistent cough x 5 days. Cough is dry during day, worse at night. Associated with runny nose and mild sore throat. No fever, no wheezing reported. Good PO intake, normal activity level. No sick contacts. UTD on vaccinations. No hx of asthma.
+
+O:
+Vitals:
+
+Temp: 98.4°F
+HR: 88 bpm, regular
+RR: 18 breaths/min
+SpO2: 99% on RA
+General: Alert, playful, NAD
+HEENT: TMs clear bilat, mild pharyngeal erythema, no tonsillar exudate, clear rhinorrhea
+Neck: Supple, no LAD
+Lungs: CTA, no wheezes or crackles
+CV: RRR, no murmurs
+
+A:
+
+Acute viral upper respiratory infection
+Post-nasal drip causing nocturnal cough
+
+P:
+
+Supportive care - rest, fluids, honey for cough (>1 year old)
+Saline nasal spray PRN for congestion
+Humidifier in bedroom at night
+Acetaminophen or ibuprofen PRN for discomfort
+No antibiotics indicated
+Return if fever develops, symptoms worsen, or persist beyond 10 days
+
+Signed:
+Dr. Michael Thompson, MD
+Pediatrics

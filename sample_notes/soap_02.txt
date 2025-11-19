@@ -1,0 +1,35 @@
+SOAP Note - Encounter Date: 2024-01-18
+Patient: patient--002
+
+S: 68 y/o female with type 2 DM presents for routine follow-up. Reports increased thirst and frequent urination x 1 week. Admits to dietary non-compliance during recent holidays. Denies chest pain, SOB, or LE swelling. Last eye exam 8 months ago, no retinopathy noted.
+
+O:
+Vitals:
+
+BP: 138/84 mmHg
+HR: 72 bpm, regular
+Wt: 185 lbs (up 3 lbs from last visit)
+General: Well-appearing, NAD
+HEENT: PERRLA, no AV nicking
+CV: RRR, no murmurs
+EXT: No edema, peripheral pulses 2+ bilat, monofilament sensation intact
+Labs: HbA1c 8.2% (previous 7.4%), FBG 186 mg/dL, Cr 1.1
+
+A:
+
+Type 2 diabetes mellitus - poorly controlled
+Hypertension - at goal
+Obesity
+
+P:
+
+Increase Metformin to 1000mg BID
+Add Glipizide 5mg daily
+Reinforce dietary counseling - refer to diabetes educator
+Recheck HbA1c in 3 months
+Annual diabetic eye exam due
+Continue Lisinopril 20mg daily
+
+Signed:
+Dr. James Wilson, MD
+Internal Medicine

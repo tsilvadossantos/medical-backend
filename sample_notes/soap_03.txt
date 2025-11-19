@@ -1,0 +1,33 @@
+SOAP Note - Encounter Date: 2024-01-20
+Patient: patient--003
+
+S: 32 y/o female presents with 3-day hx of lower abdominal pain and dysuria. Reports increased urinary frequency and urgency. Denies fever, chills, flank pain, or vaginal discharge. LMP 2 weeks ago, regular cycles. Sexually active with one partner, uses OCPs. No hx of UTIs.
+
+O:
+Vitals:
+
+BP: 118/76 mmHg
+HR: 78 bpm, regular
+Temp: 98.8°F
+General: Mild discomfort, NAD
+ABD: Soft, mild suprapubic tenderness, no rebound or guarding
+CVA: No tenderness bilaterally
+Pelvic: Deferred per patient preference
+UA: LE positive, nitrites positive, WBC 50-100/hpf, bacteria moderate
+
+A:
+
+Acute uncomplicated cystitis
+
+P:
+
+Nitrofurantoin 100mg BID x 5 days
+Phenazopyridine 200mg TID x 2 days for dysuria
+Increase fluid intake
+Urine culture sent - will follow up if resistant organism
+Return if symptoms worsen or fever develops
+Follow up in 1 week if not improved
+
+Signed:
+Dr. Emily Martinez, MD
+Family Medicine

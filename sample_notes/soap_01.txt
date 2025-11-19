@@ -1,0 +1,36 @@
+SOAP Note - Encounter Date: 2024-01-15
+Patient: patient--001
+
+S: 45 y/o male presenting with chest pain x 2 hours. Pain described as pressure-like, radiating to left arm. Reports associated SOB and diaphoresis. No prior hx of cardiac events. Family hx significant for MI in father at age 55.
+
+O:
+Vitals:
+
+BP: 145/92 mmHg
+HR: 98 bpm, regular
+RR: 20 breaths/min
+SpO2: 96% on RA
+Temp: 98.6°F
+General: Anxious, diaphoretic
+CV: Regular rhythm, no murmurs, JVD absent
+Lungs: CTA bilaterally
+ECG: ST elevation in leads V1-V4
+Labs: Troponin I 0.8 ng/mL (elevated)
+
+A:
+
+Acute ST-elevation myocardial infarction (STEMI) - anterior wall
+Hypertension, uncontrolled
+
+P:
+
+Activate cardiac cath lab for emergent PCI
+Aspirin 325mg PO, Plavix 600mg loading dose
+Heparin bolus and drip per protocol
+Morphine 2mg IV for pain management
+Admit to CCU post-procedure
+Cardiology consult stat
+
+Signed:
+Dr. Sarah Chen, MD
+Emergency Medicine
